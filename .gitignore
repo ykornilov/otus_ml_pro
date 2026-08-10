@@ -1,0 +1,28 @@
+# Виртуальные окружения
+.venv/
+venv/
+env/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.ipynb_checkpoints/
+
+# Кэш инструментов
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+
+# Данные и артефакты обучения
+data/
+*.csv
+*.parquet
+catboost_info/
+*.cbm
+*.joblib
+*.pkl
+
+# ОС / IDE
+.DS_Store
+.idea/
