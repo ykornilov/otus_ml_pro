@@ -1,0 +1,8 @@
+# Устанавливаются в общий .venv в корне репозитория:
+#   .venv/bin/pip install -r hw05/requirements.txt
+numpy==2.5.2
+pandas==3.0.5
+matplotlib==3.11.1
+seaborn==0.13.2
+torch==2.13.0
+
